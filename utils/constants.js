@@ -1,0 +1,1 @@
+export const API_URL = 'https://adamix.net/defensa_civil/def';
